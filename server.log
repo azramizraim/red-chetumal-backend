@@ -1,0 +1,10 @@
+
+╔════════════════════════════════════════════════════════╗
+║   🚀 RED CHETUMAL API Server Running!                  ║
+║   📍 Port: 3001                                      ║
+║   🌍 Environment: development                     ║
+║   🔗 Socket.io Ready                                   ║
+╚════════════════════════════════════════════════════════╝
+  
+✅ Connected to Supabase PostgreSQL
+HEAD / 200 - 648ms
